@@ -18,17 +18,17 @@ $ scrapy crawl imob
 $ scrapy shell {url}
 ```
 
-- Run the spider and export as .json
+- Run the spider and export items as json
 ```
 $ scrapy crawl imob -o file.json
 ```
 
-- Run the spider and export as .csv
+- Run the spider and export items as csv
 ```
 $ scrapy crawl imob -o file.csv
 ```
 
-- Run the spider and export as .xml
+- Run the spider and export items as xml
 ```
 $ scrapy crawl imob -o file.xml
 ```
