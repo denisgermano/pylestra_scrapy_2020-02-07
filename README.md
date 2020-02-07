@@ -41,3 +41,5 @@ Learn more about css and xpath [Selectors](https://docs.scrapy.org/en/latest/top
 All the [settings](https://docs.scrapy.org/en/latest/topics/settings.html)
 
 Enjoy a [tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
+
+Presentation [slides](https://docs.google.com/presentation/d/1kjbGdGtlbVXzjUgnqMARgsRA8Gdy7G5v1PARVUU1cX0/edit?usp=sharing)
